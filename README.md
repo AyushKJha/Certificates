@@ -1,5 +1,3 @@
-<img src="docs/banner.svg" alt="Project overview" width="100%">
-
 # Certificates
 ### Learning records · Ayush Kumar Jha
 
