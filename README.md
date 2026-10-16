@@ -1,3 +1,5 @@
+<img src="docs/banner.svg" alt="Course certificates in cloud computing and cybersecurity" width="100%">
+
 # Certificates
 ### Learning records · Ayush Kumar Jha
 
